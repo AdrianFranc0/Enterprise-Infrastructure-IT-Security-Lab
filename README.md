@@ -19,10 +19,15 @@ Think of this repo as a **live enterprise lab**: over time, I continue adding ne
 | [Active Directory + GPO Setup](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) | Domain-based user provisioning, nested OUs, custom GPOs | ✅ Complete |
 | [Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab) | Cloud identity, user provisioning, and conditional access policies | ✅ Complete |
 | [Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune) | Enrolled iOS device with compliance rules & app deployment | ✅ Complete |
+| [Active Directory Home Lab](https://github.com/AdrianFranc0/Active-Directory-Home-Lab) | Core AD foundation: DNS, DHCP, automated user provisioning | ✅ Complete |
 | **  Security Projects** 🔐|||
 | pfSense Firewall & VLAN ACLs | Physical lab setup with firewall segmentation & VLAN ACLs | ⏳ In Progress |
 | Helpdesk Ticket Simulation | Troubleshooting IT issues in a ticketing workflow | ⏳ In Progress |
 | Disaster Recovery & Prevention | Backup and endpoint recovery scenarios | ⏳ In Progress |
+| [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) | Splunk + Sysmon monitoring AD brute-force, MITRE ATT&CK simulation | ✅ Complete |
+| [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project) | Azure Sentinel log ingestion, dashboards, alerting | ✅ Complete |
+| [OpenVAS Vulnerability Management](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) | Vulnerability scans, CVE analysis, remediation planning | ✅ Complete |
+| [Wireshark PCAP Analysis Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) | Traffic analysis, malware detection, DNS tunneling, credential leaks | ✅ Complete |
 | **Planned Additions** 🕘  |||
 | App Protection Policies | Prevent corporate data copy/paste between managed & unmanaged apps | ⏳ Planned |
 | RBAC with Entra ID | Role-based access control for Helpdesk vs Admin | ⏳ Planned |
