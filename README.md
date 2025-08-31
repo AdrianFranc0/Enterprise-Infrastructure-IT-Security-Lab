@@ -28,10 +28,12 @@ Think of this repo as a **live enterprise lab**: over time, I continue adding ne
 | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project) | Azure Sentinel log ingestion, dashboards, alerting | ✅ Complete |
 | [OpenVAS Vulnerability Management](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) | Vulnerability scans, CVE analysis, remediation planning | ✅ Complete |
 | [Wireshark PCAP Analysis Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) | Traffic analysis, malware detection, DNS tunneling, credential leaks | ✅ Complete |
+| [Zero Trust Access Control with Conditional Access](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access) | Enforced geo-blocking (non-US sign-ins), Trusted IP exception, MFA outside trusted networks, and validated Anonymous IP (Tor) detections before moving policies to Active | ✅ Complete |
+
 | **Planned Additions** 🕘  |||
 | App Protection Policies | Prevent corporate data copy/paste between managed & unmanaged apps | ⏳ Planned |
 | RBAC with Entra ID | Role-based access control for Helpdesk vs Admin | ⏳ Planned |
-| Conditional Access Policies | Risk-based access control (geo/IP/device state) | ⏳ Planned |
+
 | Intune Remote Wipe Simulation | Simulate lost/stolen laptop secure wipe | ⏳ Planned |
 | Defender for Endpoint Integration | Integrate Defender AV signals into Intune security dashboard | ⏳ Planned |
 
