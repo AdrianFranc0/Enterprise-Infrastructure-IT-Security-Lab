@@ -23,19 +23,15 @@ Think of this repo as a **live enterprise lab**: over time, I continue adding ne
 | **  Security Projects** 🔐|||
 | pfSense Firewall & VLAN ACLs | Physical lab setup with firewall segmentation & VLAN ACLs | ⏳ In Progress |
 | Helpdesk Ticket Simulation | Troubleshooting IT issues in a ticketing workflow | ⏳ In Progress |
-| Disaster Recovery & Prevention | Backup and endpoint recovery scenarios | ⏳ In Progress |
+| [Remote Wipe / Retire Simulation](https://github.com/AdrianFranc0/Incident-Response-Remote-Wipe-Retire-Simulation) | Intune incident-response scenario: simulate lost/stolen corporate laptop (**Wipe**) or personal/BYOD with corporate data (**Retire**) | ✅ Complete |
 | [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) | Splunk + Sysmon monitoring AD brute-force, MITRE ATT&CK simulation | ✅ Complete |
 | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project) | Azure Sentinel log ingestion, dashboards, alerting | ✅ Complete |
 | [OpenVAS Vulnerability Management](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) | Vulnerability scans, CVE analysis, remediation planning | ✅ Complete |
 | [Wireshark PCAP Analysis Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) | Traffic analysis, malware detection, DNS tunneling, credential leaks | ✅ Complete |
 | [Zero Trust Access Control with Conditional Access](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access) | Enforced geo-blocking (non-US sign-ins), Trusted IP exception, MFA outside trusted networks, and validated Anonymous IP (Tor) detections before moving policies to Active | ✅ Complete |
+| [iOS DLP with Intune App Protection](https://github.com/AdrianFranc0/iOS-DLP-with-Intune-App-Protection) | Enforced Intune App Protection (MAM) policies—PIN, encryption, copy/paste/save/screenshot restrictions on Outlook & OneDrive in a BYOD scenario | ✅ Complete |
 
-| **Planned Additions** 🕘  |||
-| App Protection Policies | Prevent corporate data copy/paste between managed & unmanaged apps | ⏳ Planned |
-| RBAC with Entra ID | Role-based access control for Helpdesk vs Admin | ⏳ Planned |
 
-| Intune Remote Wipe Simulation | Simulate lost/stolen laptop secure wipe | ⏳ Planned |
-| Defender for Endpoint Integration | Integrate Defender AV signals into Intune security dashboard | ⏳ Planned |
 
 ---
 
